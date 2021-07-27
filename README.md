@@ -1,4 +1,8 @@
 # OpenDefense
 
-This is a repository for defense by S4D3. 
+This is a repository of our defenses: 
+
+* [Thesis book]
+* [Presentation slide](https://github.com/s4d3/OpenDefense/blob/main/PresentationSlide-OpenDefense.pdf)
+
 
